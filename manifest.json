@@ -1,0 +1,186 @@
+{
+ "series": "Josh's Finance Cheatsheets",
+ "count": 30,
+ "items": [
+  {
+   "n": 1,
+   "title": "Candlestick Anatomy",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_01.jpg",
+   "content": "📝 **Cheatsheet #01: Candlestick Anatomy**\nEvery chart starts here. Know what the body and wicks are telling you before you read any pattern.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 2,
+   "title": "Bullish Engulfing",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_02.jpg",
+   "content": "📝 **Cheatsheet #02: Bullish Engulfing**\nOne of the cleanest reversal signals when it shows up at support with volume.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 3,
+   "title": "Bearish Engulfing",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_03.jpg",
+   "content": "📝 **Cheatsheet #03: Bearish Engulfing**\nThe mirror image of the bullish engulfing: a warning sign when it prints at resistance.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 4,
+   "title": "Hammer & Shooting Star",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_04.jpg",
+   "content": "📝 **Cheatsheet #04: Hammer & Shooting Star**\nTwo single-candle signals that show a failed push. Context decides whether they matter.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 5,
+   "title": "Doji Candles",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_05.jpg",
+   "content": "📝 **Cheatsheet #05: Doji Candles**\nDoji candles show balance between buyers and sellers. Watch what happens next.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 6,
+   "title": "Morning & Evening Star",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_06.jpg",
+   "content": "📝 **Cheatsheet #06: Morning & Evening Star**\nThree-candle reversals that show momentum fading and flipping direction.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 7,
+   "title": "Support & Resistance",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_07.jpg",
+   "content": "📝 **Cheatsheet #07: Support & Resistance**\nThe foundation of every setup. Know where price has reacted before.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 8,
+   "title": "Trendlines & Channels",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_08.jpg",
+   "content": "📝 **Cheatsheet #08: Trendlines & Channels**\nTrendlines keep you on the right side of the move. Channels show you the range inside it.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 9,
+   "title": "Double Top & Double Bottom",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_09.jpg",
+   "content": "📝 **Cheatsheet #09: Double Top & Double Bottom**\nTwo failed attempts at the same level, then a neckline break. Simple and effective.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 10,
+   "title": "Head & Shoulders",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_10.jpg",
+   "content": "📝 **Cheatsheet #10: Head & Shoulders**\nOne of the most reliable reversal patterns when the neckline breaks on volume.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 11,
+   "title": "Cup & Handle",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_11.jpg",
+   "content": "📝 **Cheatsheet #11: Cup & Handle**\nA slow, rounded base followed by a tight handle often leads to a strong breakout.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 12,
+   "title": "Bull Flag & Bear Flag",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_12.jpg",
+   "content": "📝 **Cheatsheet #12: Bull Flag & Bear Flag**\nFlags are rest stops in strong trends. The breakout usually follows the pole.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 13,
+   "title": "Triangle Patterns",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_13.jpg",
+   "content": "📝 **Cheatsheet #13: Triangle Patterns**\nTriangles show compression. The breakout direction tells you who won.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 14,
+   "title": "Moving Averages",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_14.jpg",
+   "content": "📝 **Cheatsheet #14: Moving Averages**\nMoving averages filter noise and show the trend at a glance.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 15,
+   "title": "Golden Cross & Death Cross",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_15.jpg",
+   "content": "📝 **Cheatsheet #15: Golden Cross & Death Cross**\nTwo widely watched signals for long-term trend changes, and how to use them.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 16,
+   "title": "RSI Explained",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_16.jpg",
+   "content": "📝 **Cheatsheet #16: RSI Explained**\nRSI measures momentum. Learn the levels and the divergence signal.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 17,
+   "title": "MACD Explained",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_17.jpg",
+   "content": "📝 **Cheatsheet #17: MACD Explained**\nMACD shows momentum shifts before they are obvious on price.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 18,
+   "title": "Bollinger Bands",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_18.jpg",
+   "content": "📝 **Cheatsheet #18: Bollinger Bands**\nBollinger Bands measure volatility. The squeeze is the setup to watch.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 19,
+   "title": "Volume Analysis",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_19.jpg",
+   "content": "📝 **Cheatsheet #19: Volume Analysis**\nVolume is the fuel behind every move. Learn to read it.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 20,
+   "title": "VWAP",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_20.jpg",
+   "content": "📝 **Cheatsheet #20: VWAP**\nVWAP is the intraday line institutions watch. Know which side of it you are on.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 21,
+   "title": "Fibonacci Retracement",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_21.jpg",
+   "content": "📝 **Cheatsheet #21: Fibonacci Retracement**\nFibonacci levels help you find pullback entries inside a trend.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 22,
+   "title": "Multi-Timeframe Analysis",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_22.jpg",
+   "content": "📝 **Cheatsheet #22: Multi-Timeframe Analysis**\nOne chart never tells the full story. Line up your timeframes before you trade.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 23,
+   "title": "Position Sizing",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_23.jpg",
+   "content": "📝 **Cheatsheet #23: Position Sizing**\nHow much you buy matters more than what you buy. Here is the math.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 24,
+   "title": "Risk / Reward Ratio",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_24.jpg",
+   "content": "📝 **Cheatsheet #24: Risk / Reward Ratio**\nA good risk/reward means you do not need to be right all the time.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 25,
+   "title": "Order Types",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_25.jpg",
+   "content": "📝 **Cheatsheet #25: Order Types**\nMarket, limit, stop and stop-limit orders, and when to use each.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 26,
+   "title": "Reading an Earnings Report",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_26.jpg",
+   "content": "📝 **Cheatsheet #26: Reading an Earnings Report**\nEarnings season decoded: the four numbers that drive the reaction.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 27,
+   "title": "Valuation Ratios",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_27.jpg",
+   "content": "📝 **Cheatsheet #27: Valuation Ratios**\nThe core ratios investors use to judge valuation, in one page.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 28,
+   "title": "Balance Sheet Health",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_28.jpg",
+   "content": "📝 **Cheatsheet #28: Balance Sheet Health**\nStrong companies can survive downturns. These numbers show you which ones.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 29,
+   "title": "Market-Moving Macro Events",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_29.jpg",
+   "content": "📝 **Cheatsheet #29: Market-Moving Macro Events**\nThe macro events that move stocks and crypto, and why they matter.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 30,
+   "title": "Crypto Market Basics",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_30.jpg",
+   "content": "📝 **Cheatsheet #30: Crypto Market Basics**\nCore crypto metrics every trader should check before taking a position.\n\nSave this one for later 📌"
+  }
+ ]
+}
