@@ -1,6 +1,6 @@
 {
  "series": "Josh's Finance Cheatsheets",
- "count": 30,
+ "count": 65,
  "items": [
   {
    "n": 1,
@@ -181,6 +181,251 @@
    "title": "Crypto Market Basics",
    "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_30.jpg",
    "content": "📝 **Cheatsheet #30: Crypto Market Basics**\nCore crypto metrics every trader should check before taking a position.\n\nSave this one for later 📌"
+  },
+  {
+   "n": 31,
+   "title": "Three Soldiers & Crows",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_31.jpg",
+   "content": "📝 **Cheatsheet #31: Three Soldiers & Crows**\nThree candles that show one side taking full control. Best read at the end of a long move.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 32,
+   "title": "Inside & Outside Bars",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_32.jpg",
+   "content": "📝 **Cheatsheet #32: Inside & Outside Bars**\nInside bars show the market coiling. Outside bars show a sudden fight for control.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 33,
+   "title": "Rising & Falling Wedges",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_33.jpg",
+   "content": "📝 **Cheatsheet #33: Rising & Falling Wedges**\nWedges look like trends, but the squeeze often ends with a break the other way.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 34,
+   "title": "Breakout & Retest",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_34.jpg",
+   "content": "📝 **Cheatsheet #34: Breakout & Retest**\nThe safer way to trade breakouts: let price prove the level flipped first.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 35,
+   "title": "Gap Types",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_35.jpg",
+   "content": "📝 **Cheatsheet #35: Gap Types**\nWhere a gap appears tells you more than the gap itself.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 36,
+   "title": "Stochastic Oscillator",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_36.jpg",
+   "content": "📝 **Cheatsheet #36: Stochastic Oscillator**\nShows if price is closing near the top or bottom of its recent range.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 37,
+   "title": "ATR (Average True Range)",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_37.jpg",
+   "content": "📝 **Cheatsheet #37: ATR (Average True Range)**\nThe simplest way to set stops that respect how much a market normally moves.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 38,
+   "title": "RSI Divergence",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_38.jpg",
+   "content": "📝 **Cheatsheet #38: RSI Divergence**\nMomentum often turns before price does. Divergence is how you spot it.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 39,
+   "title": "Market Structure",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_39.jpg",
+   "content": "📝 **Cheatsheet #39: Market Structure**\nForget indicators for a second: swing highs and lows tell you the trend.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 40,
+   "title": "Liquidity Sweeps",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_40.jpg",
+   "content": "📝 **Cheatsheet #40: Liquidity Sweeps**\nBig players need liquidity. Clusters of stops are where they find it.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 41,
+   "title": "Where to Put a Stop",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_41.jpg",
+   "content": "📝 **Cheatsheet #41: Where to Put a Stop**\nA stop isn't a random %: it's the price that proves your trade idea wrong.\n\nSave this one for later 📌",
+   "category": "Risk Management"
+  },
+  {
+   "n": 42,
+   "title": "Trailing Stops",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_42.jpg",
+   "content": "📝 **Cheatsheet #42: Trailing Stops**\nThe way to ride a trend without giving everything back.\n\nSave this one for later 📌",
+   "category": "Risk Management"
+  },
+  {
+   "n": 43,
+   "title": "Scaling In & Out",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_43.jpg",
+   "content": "📝 **Cheatsheet #43: Scaling In & Out**\nYou don't have to be all-in or all-out. Pieces make decisions easier.\n\nSave this one for later 📌",
+   "category": "Risk Management"
+  },
+  {
+   "n": 44,
+   "title": "Trading Journal",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_44.jpg",
+   "content": "📝 **Cheatsheet #44: Trading Journal**\nThe cheapest edge in trading is a notebook you actually review.\n\nSave this one for later 📌",
+   "category": "Trading Psychology"
+  },
+  {
+   "n": 45,
+   "title": "FOMO vs Revenge Trading",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_45.jpg",
+   "content": "📝 **Cheatsheet #45: FOMO vs Revenge Trading**\nMost blown accounts come from two feelings, not bad analysis.\n\nSave this one for later 📌",
+   "category": "Trading Psychology"
+  },
+  {
+   "n": 46,
+   "title": "Bull vs Bear Markets",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_46.jpg",
+   "content": "📝 **Cheatsheet #46: Bull vs Bear Markets**\nSame market, different rules. Know which one you're in.\n\nSave this one for later 📌",
+   "category": "Investing"
+  },
+  {
+   "n": 47,
+   "title": "The Four Market Phases",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_47.jpg",
+   "content": "📝 **Cheatsheet #47: The Four Market Phases**\nMarkets move in cycles. Knowing the phase tells you which strategy fits.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 48,
+   "title": "Sector Rotation",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_48.jpg",
+   "content": "📝 **Cheatsheet #48: Sector Rotation**\nThe market's leaders change as the economy changes. Follow the rotation.\n\nSave this one for later 📌",
+   "category": "Macro"
+  },
+  {
+   "n": 49,
+   "title": "Calls vs Puts",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_49.jpg",
+   "content": "📝 **Cheatsheet #49: Calls vs Puts**\nThe two building blocks of every options strategy.\n\nSave this one for later 📌",
+   "category": "Options"
+  },
+  {
+   "n": 50,
+   "title": "The Options Greeks",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_50.jpg",
+   "content": "📝 **Cheatsheet #50: The Options Greeks**\nFour numbers that explain why an option gains or loses value.\n\nSave this one for later 📌",
+   "category": "Options"
+  },
+  {
+   "n": 51,
+   "title": "IV Crush",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_51.jpg",
+   "content": "📝 **Cheatsheet #51: IV Crush**\nUncertainty is priced in before the news, then vanishes after it.\n\nSave this one for later 📌",
+   "category": "Options"
+  },
+  {
+   "n": 52,
+   "title": "Short Selling Basics",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_52.jpg",
+   "content": "📝 **Cheatsheet #52: Short Selling Basics**\nShorting is the mirror of buying, but the risk is not symmetrical.\n\nSave this one for later 📌",
+   "category": "Risk Management"
+  },
+  {
+   "n": 53,
+   "title": "Dividend Investing",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_53.jpg",
+   "content": "📝 **Cheatsheet #53: Dividend Investing**\nDividends reward patience, but only if the company can afford them.\n\nSave this one for later 📌",
+   "category": "Investing"
+  },
+  {
+   "n": 54,
+   "title": "Stock vs ETF vs Fund",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_54.jpg",
+   "content": "📝 **Cheatsheet #54: Stock vs ETF vs Fund**\nSame goal, different wrappers. Pick the one that fits how you invest.\n\nSave this one for later 📌",
+   "category": "Investing"
+  },
+  {
+   "n": 55,
+   "title": "Dollar-Cost Averaging",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_55.jpg",
+   "content": "📝 **Cheatsheet #55: Dollar-Cost Averaging**\nThe simplest plan that turns down months into an advantage.\n\nSave this one for later 📌",
+   "category": "Investing"
+  },
+  {
+   "n": 56,
+   "title": "Compounding & Rule of 72",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_56.jpg",
+   "content": "📝 **Cheatsheet #56: Compounding & Rule of 72**\nThe math that makes patience the most powerful investing tool.\n\nSave this one for later 📌",
+   "category": "Investing"
+  },
+  {
+   "n": 57,
+   "title": "Bitcoin Halving",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_57.jpg",
+   "content": "📝 **Cheatsheet #57: Bitcoin Halving**\nBitcoin's built-in supply schedule, in one table.\n\nSave this one for later 📌",
+   "category": "Crypto"
+  },
+  {
+   "n": 58,
+   "title": "Hot vs Cold Wallets",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_58.jpg",
+   "content": "📝 **Cheatsheet #58: Hot vs Cold Wallets**\nNot your keys, not your coins. Here's how to hold them safely.\n\nSave this one for later 📌",
+   "category": "Crypto"
+  },
+  {
+   "n": 59,
+   "title": "Leverage & Liquidation",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_59.jpg",
+   "content": "📝 **Cheatsheet #59: Leverage & Liquidation**\nThe table every new futures trader should see before their first trade.\n\nSave this one for later 📌",
+   "category": "Crypto"
+  },
+  {
+   "n": 60,
+   "title": "Stablecoins Explained",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_60.jpg",
+   "content": "📝 **Cheatsheet #60: Stablecoins Explained**\nNot all $1 coins are the same. The backing is what matters.\n\nSave this one for later 📌",
+   "category": "Crypto"
+  },
+  {
+   "n": 61,
+   "title": "Reading the Order Book",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_61.jpg",
+   "content": "📝 **Cheatsheet #61: Reading the Order Book**\nThe order book shows where the real buying and selling is waiting.\n\nSave this one for later 📌",
+   "category": "Technical Analysis"
+  },
+  {
+   "n": 62,
+   "title": "Pre-Market & After-Hours",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_62.jpg",
+   "content": "📝 **Cheatsheet #62: Pre-Market & After-Hours**\nWhen you trade matters almost as much as what you trade.\n\nSave this one for later 📌",
+   "category": "Macro"
+  },
+  {
+   "n": 63,
+   "title": "Fed Days & Markets",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_63.jpg",
+   "content": "📝 **Cheatsheet #63: Fed Days & Markets**\nEight Fed meetings a year can move everything. Here's the playbook.\n\nSave this one for later 📌",
+   "category": "Macro"
+  },
+  {
+   "n": 64,
+   "title": "Correlation",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_64.jpg",
+   "content": "📝 **Cheatsheet #64: Correlation**\nDiversification only works if your holdings don't all fall at once.\n\nSave this one for later 📌",
+   "category": "Risk Management"
+  },
+  {
+   "n": 65,
+   "title": "Drawdown Recovery Math",
+   "image": "https://raw.githubusercontent.com/BeforeTheAI/joshs-finance-cheatsheets/main/cheatsheet_65.jpg",
+   "content": "📝 **Cheatsheet #65: Drawdown Recovery Math**\nOne table that explains why every pro obsesses over risk.\n\nSave this one for later 📌",
+   "category": "Risk Management"
   }
  ]
 }
